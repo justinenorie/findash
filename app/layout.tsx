@@ -1,5 +1,5 @@
 import "@/app/ui/global.css";
-import { roboto } from "./ui/font";
+import { roboto } from "./ui/fonts";
 
 export default function RootLayout({
   children,

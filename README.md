@@ -1,5 +1,17 @@
-## Next.js App Router Course - Starter
+# Practicing NextJS by building a project dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a dashboard application built with NextJS. It is a part of my learning journey to practice and improve my skills in building web applications with NextJS.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+The application is a simple project management dashboard that allows users to create, read, update, and delete projects.
+
+I built this application to practice the following skills:
+
+- Creating a NextJS application
+- Setting up a database with Prisma
+- Creating API routes with NextJS
+- Using React Query to manage data fetching
+- Using React Hook Form to manage form state
+- Using Tailwind CSS for styling
+- Using Heroicons for icons
+
+I hope this project can be a helpful resource for anyone looking to learn more about building web applications with NextJS.
